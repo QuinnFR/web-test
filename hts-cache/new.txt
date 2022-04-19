@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+05:24:39	12203/12203	---M-Z	200	added ('OK')	text/html	date:Tue,%2019%20Apr%202022%2002:24:40%20GMT	https://webappcontent.telegram.org/demo?mode=simple	C:/My%20Web%20Sites/x/webappcontent.telegram.org/demod68c.html	(from )
+05:24:40	129/129	---M-Z	404	error ('Not%20Found')	text/html	date:Tue,%2019%20Apr%202022%2002:24:40%20GMT	https://webappcontent.telegram.org/robots.txt		(from )
